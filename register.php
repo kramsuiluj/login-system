@@ -1,6 +1,7 @@
 <?php 
 
 require_once 'includes/temps.php';
+require_once 'db/conn.php';
 
 ?>
 
